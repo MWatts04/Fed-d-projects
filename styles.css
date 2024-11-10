@@ -907,7 +907,7 @@ h5{
     border-color: rgb(226, 232, 240);
     border-width: 1px;
     border-radius: 4px;
-    width: 100%;
+    width: 550px;
 }
 
 .qualitywork-img-container{
@@ -941,7 +941,7 @@ h5{
 }
 
 .steps-pic{
-    width: 100%;
+    width: 640px;
     height: auto;
 }
 
